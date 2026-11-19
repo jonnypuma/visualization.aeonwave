@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1">
+  <section id="addon" label="0" help="0">
+    <category id="main" label="128" help="0">
+      <group id="1" label="0">
+        <setting id="channels" type="integer" label="30030" help="30031">
+          <default>0</default>
+          <constraints>
+            <options>
+              <option label="30032">0</option>
+              <option label="30035">3</option>
+              <option label="30033">2</option>
+              <option label="30036">4</option>
+              <option label="30034">1</option>
+            </options>
+          </constraints>
+          <control type="spinner" format="string" />
+        </setting>
+        <setting id="smoothness" type="integer" label="30060" help="30061">
+          <default>5</default>
+          <constraints>
+            <minimum label="30062">0</minimum>
+            <step>1</step>
+            <maximum>10</maximum>
+          </constraints>
+          <control type="slider" format="integer" />
+        </setting>
+        <setting id="points-per-line" type="integer" label="30000" help="30001">
+          <default>128</default>
+          <constraints>
+            <minimum>16</minimum>
+            <step>16</step>
+            <maximum>512</maximum>
+          </constraints>
+          <control type="spinner" format="string" />
+        </setting>
+        <setting id="height" type="integer" label="30044" help="30045">
+          <default>100</default>
+          <constraints>
+            <minimum>50</minimum>
+            <step>10</step>
+            <maximum>200</maximum>
+          </constraints>
+          <control type="spinner" format="string">
+            <formatlabel>30063</formatlabel>
+          </control>
+          <dependencies>
+            <dependency type="visible" setting="smoothness" operator="!is">0</dependency>
+          </dependencies>
+        </setting>
+        <setting id="curve" type="boolean" label="30046" help="30047">
+          <default>true</default>
+          <control type="toggle" />
+          <dependencies>
+            <dependency type="visible" setting="smoothness" operator="!is">0</dependency>
+          </dependencies>
+        </setting>
+        <setting id="line-thickness" type="integer" label="30021" help="30022">
+          <default>2</default>
+          <constraints>
+            <minimum>1</minimum>
+            <step>1</step>
+            <maximum>10</maximum>
+          </constraints>
+          <control type="spinner" format="string">
+            <formatlabel>30023</formatlabel>
+          </control>
+        </setting>
+      </group>
+      <group id="2" label="30002">
+        <setting id="line-red" type="number" label="30003" help="30004">
+          <default>0.5</default>
+          <constraints><minimum>0.0</minimum><step>0.1</step><maximum>1.0</maximum></constraints>
+          <control type="slider" format="number" />
+        </setting>
+        <setting id="line-green" type="number" label="30005" help="30006">
+          <default>0.5</default>
+          <constraints><minimum>0.0</minimum><step>0.1</step><maximum>1.0</maximum></constraints>
+          <control type="slider" format="number" />
+        </setting>
+        <setting id="line-blue" type="number" label="30007" help="30008">
+          <default>0.5</default>
+          <constraints><minimum>0.0</minimum><step>0.1</step><maximum>1.0</maximum></constraints>
+          <control type="slider" format="number" />
+        </setting>
+      </group>
+      <group id="3" label="30011">
+        <setting id="bg-red" type="number" label="30012" help="30013">
+          <default>0.0</default>
+          <constraints><minimum>0.0</minimum><step>0.1</step><maximum>1.0</maximum></constraints>
+          <control type="slider" format="number" />
+        </setting>
+        <setting id="bg-green" type="number" label="30014" help="30015">
+          <default>0.0</default>
+          <constraints><minimum>0.0</minimum><step>0.1</step><maximum>1.0</maximum></constraints>
+          <control type="slider" format="number" />
+        </setting>
+        <setting id="bg-blue" type="number" label="30016" help="30017">
+          <default>0.0</default>
+          <constraints><minimum>0.0</minimum><step>0.1</step><maximum>1.0</maximum></constraints>
+          <control type="slider" format="number" />
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

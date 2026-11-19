@@ -1,0 +1,197 @@
+# Kodi add-on strings - visualization.aeonwave (hu_hu)
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.aeonwave\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "Pontok vonalanként"
+
+msgctxt "#30001"
+msgid "How many points the line goes through: fewer is calmer."
+msgstr "Hány ponton megy át a vonal: kevesebb nyugodtabb."
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "Vonal színe"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "Vörös"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "A vörös szín erőssége a vonalban."
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "Zöld"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "A zöld szín erőssége a vonalban."
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "Kék"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "A kék szín erőssége a vonalban."
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "Az alfa erőssége a vonalban."
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "Háttérszín"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "Vörös"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "A vörös szín erőssége a háttérben."
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "Zöld"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "A zöld szín erőssége a háttérben."
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "Kék"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "A kék szín erőssége a háttérben."
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "Az alfa erőssége a háttérben."
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "Ne számoljon"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "Vonalvastagság"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "A vonal vastagsága pixelben."
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr "{0:d} px"
+
+msgctxt "#30030"
+msgid "Channels"
+msgstr "Csatornák"
+
+msgctxt "#30031"
+msgid "Left or Right: that channel as one line through the middle. Both mixed: left and right averaged into one line. Both overlaid: both lines in the same band, the right one dimmer. Both as two lines: left above, right below (as Waveform)."
+msgstr "Bal vagy Jobb: az a csatorna egy vonalként középen. Mindkettő keverve: a bal és a jobb átlaga egy vonalban. Mindkettő egymáson: mindkét vonal ugyanabban a sávban, a jobb halványabban. Mindkettő két vonalként: bal fent, jobb lent (mint a Waveform)."
+
+msgctxt "#30032"
+msgid "Left"
+msgstr "Bal"
+
+msgctxt "#30033"
+msgid "Both mixed"
+msgstr "Mindkettő keverve"
+
+msgctxt "#30034"
+msgid "Both as two lines"
+msgstr "Mindkettő két vonalként"
+
+msgctxt "#30040"
+msgid "Smoothing"
+msgstr "Simítás"
+
+msgctxt "#30041"
+msgid "How often each point is evened out with its neighbours: more is rounder."
+msgstr "Hányszor egyenlítődik ki minden pont a szomszédaival: több kerekebb."
+
+msgctxt "#30042"
+msgid "Calm"
+msgstr "Nyugalom"
+
+msgctxt "#30043"
+msgid "How much of the line before stays in the next one: more is slower and steadier."
+msgstr "Mennyi marad az előző vonalból a következőben: több lassabb és egyenletesebb."
+
+msgctxt "#30044"
+msgid "Height"
+msgstr "Magasság"
+
+msgctxt "#30045"
+msgid "How far the line swings; loud peaks stay inside the box either way."
+msgstr "Milyen messzire leng ki a vonal; a hangos csúcsok így is a dobozban maradnak."
+
+msgctxt "#30046"
+msgid "Smooth curve"
+msgstr "Sima görbe"
+
+msgctxt "#30047"
+msgid "A rounded curve through the points instead of straight lines."
+msgstr "Lekerekített görbe a pontokon át egyenes vonalak helyett."
+
+msgctxt "#30050"
+msgid "Style"
+msgstr "Stílus"
+
+msgctxt "#30051"
+msgid "Smooth: a calm, rounded line (each point the average of the audio it covers, evened out). Accurate: the raw samples, as Waveform draws them."
+msgstr "Sima: nyugodt, lekerekített vonal (minden pont az általa lefedett hang átlaga, kiegyenlítve). Pontos: a nyers minták, ahogy a Waveform rajzolja őket."
+
+msgctxt "#30052"
+msgid "Smooth"
+msgstr "Sima"
+
+msgctxt "#30053"
+msgid "Accurate"
+msgstr "Pontos"
+
+msgctxt "#30060"
+msgid "Smoothness"
+msgstr "Simaság"
+
+msgctxt "#30061"
+msgid "0: the raw samples, as Waveform draws them (accurate, busy). Higher: each point averages more of the audio it covers and is evened out with its neighbours and the moment before, so the line gets calmer and rounder. 10 is the calmest."
+msgstr "0: a nyers minták, ahogy a Waveform rajzolja őket (pontos, nyugtalan). Magasabb: minden pont több lefedett hangot átlagol, és kiegyenlítődik a szomszédaival és az előző pillanattal, így a vonal nyugodtabb és kerekebb. A 10 a legnyugodtabb."
+
+msgctxt "#30062"
+msgid "Accurate"
+msgstr "Pontos"
+
+msgctxt "#30063"
+msgid "{0:d} %"
+msgstr "{0:d} %"
+
+msgctxt "#30035"
+msgid "Right"
+msgstr "Jobb"
+
+msgctxt "#30036"
+msgid "Both overlaid"
+msgstr "Mindkettő egymáson"

@@ -1,0 +1,197 @@
+# Kodi add-on strings - visualization.aeonwave (zh_cn)
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.aeonwave\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "每条线的点数"
+
+msgctxt "#30001"
+msgid "How many points the line goes through: fewer is calmer."
+msgstr "线经过多少个点：越少越平静。"
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "线条颜色"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "红"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "线条中红色的强度。"
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "绿"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "线条中绿色的强度。"
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "蓝"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "线条中蓝色的强度。"
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "透明度"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "线条中透明度的强度。"
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "背景颜色"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "红"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "背景中红色的强度。"
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "绿"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "背景中绿色的强度。"
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "蓝"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "背景中蓝色的强度。"
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "透明度"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "背景中透明度的强度。"
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "不计算"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "线条粗细"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "以像素数设定线条的粗细。"
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr "{0:d} 像素"
+
+msgctxt "#30030"
+msgid "Channels"
+msgstr "声道"
+
+msgctxt "#30031"
+msgid "Left or Right: that channel as one line through the middle. Both mixed: left and right averaged into one line. Both overlaid: both lines in the same band, the right one dimmer. Both as two lines: left above, right below (as Waveform)."
+msgstr "左或右：该声道作为中间的一条线。两者混合：左右平均为一条线。两者叠加：两条线在同一带中，右边较淡。两者两条线：左在上，右在下（同 Waveform）。"
+
+msgctxt "#30032"
+msgid "Left"
+msgstr "左"
+
+msgctxt "#30033"
+msgid "Both mixed"
+msgstr "两者混合"
+
+msgctxt "#30034"
+msgid "Both as two lines"
+msgstr "两者两条线"
+
+msgctxt "#30040"
+msgid "Smoothing"
+msgstr "平滑"
+
+msgctxt "#30041"
+msgid "How often each point is evened out with its neighbours: more is rounder."
+msgstr "每个点与相邻点均衡的次数：越多越圆润。"
+
+msgctxt "#30042"
+msgid "Calm"
+msgstr "平静"
+
+msgctxt "#30043"
+msgid "How much of the line before stays in the next one: more is slower and steadier."
+msgstr "上一条线在下一条中保留多少：越多越慢越稳定。"
+
+msgctxt "#30044"
+msgid "Height"
+msgstr "高度"
+
+msgctxt "#30045"
+msgid "How far the line swings; loud peaks stay inside the box either way."
+msgstr "线条摆动的幅度；响亮的峰值无论如何都留在框内。"
+
+msgctxt "#30046"
+msgid "Smooth curve"
+msgstr "平滑曲线"
+
+msgctxt "#30047"
+msgid "A rounded curve through the points instead of straight lines."
+msgstr "用穿过各点的圆润曲线代替直线。"
+
+msgctxt "#30050"
+msgid "Style"
+msgstr "样式"
+
+msgctxt "#30051"
+msgid "Smooth: a calm, rounded line (each point the average of the audio it covers, evened out). Accurate: the raw samples, as Waveform draws them."
+msgstr "平滑：平静圆润的线（每个点是其覆盖音频的平均值，再加均衡）。精确：原始采样，与 Waveform 绘制的一样。"
+
+msgctxt "#30052"
+msgid "Smooth"
+msgstr "平滑"
+
+msgctxt "#30053"
+msgid "Accurate"
+msgstr "精确"
+
+msgctxt "#30060"
+msgid "Smoothness"
+msgstr "平滑度"
+
+msgctxt "#30061"
+msgid "0: the raw samples, as Waveform draws them (accurate, busy). Higher: each point averages more of the audio it covers and is evened out with its neighbours and the moment before, so the line gets calmer and rounder. 10 is the calmest."
+msgstr "0：原始采样，与 Waveform 绘制的一样（精确但杂乱）。更高：每个点平均更多覆盖的音频，并与相邻点和前一时刻均衡，线条因此更平静、更圆润。10 最平静。"
+
+msgctxt "#30062"
+msgid "Accurate"
+msgstr "精确"
+
+msgctxt "#30063"
+msgid "{0:d} %"
+msgstr "{0:d}%"
+
+msgctxt "#30035"
+msgid "Right"
+msgstr "右"
+
+msgctxt "#30036"
+msgid "Both overlaid"
+msgstr "两者叠加"

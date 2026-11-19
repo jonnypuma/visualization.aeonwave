@@ -1,0 +1,197 @@
+# Kodi add-on strings - visualization.aeonwave (nl_nl)
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.aeonwave\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "Punten per lijn"
+
+msgctxt "#30001"
+msgid "How many points the line goes through: fewer is calmer."
+msgstr "Door hoeveel punten de lijn loopt: minder is rustiger."
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "Lijnkleur"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "Rood"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "Sterkte van rood in de lijn."
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "Groen"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "Sterkte van groen in de lijn."
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "Blauw"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "Sterkte van blauw in de lijn."
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "Sterkte van alfa in de lijn."
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "Rood"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "Sterkte van rood in de achtergrond."
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "Groen"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "Sterkte van groen in de achtergrond."
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "Blauw"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "Sterkte van blauw in de achtergrond."
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "Sterkte van alfa in de achtergrond."
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "Niet berekenen"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "Lijndikte"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "Bepaalt de dikte van een lijn in pixels."
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr "{0:d} px"
+
+msgctxt "#30030"
+msgid "Channels"
+msgstr "Kanalen"
+
+msgctxt "#30031"
+msgid "Left or Right: that channel as one line through the middle. Both mixed: left and right averaged into one line. Both overlaid: both lines in the same band, the right one dimmer. Both as two lines: left above, right below (as Waveform)."
+msgstr "Links of Rechts: dat kanaal als één lijn door het midden. Beide gemengd: links en rechts gemiddeld tot één lijn. Beide over elkaar: beide lijnen in dezelfde band, de rechter zwakker. Beide als twee lijnen: links boven, rechts onder (zoals Waveform)."
+
+msgctxt "#30032"
+msgid "Left"
+msgstr "Links"
+
+msgctxt "#30033"
+msgid "Both mixed"
+msgstr "Beide gemengd"
+
+msgctxt "#30034"
+msgid "Both as two lines"
+msgstr "Beide als twee lijnen"
+
+msgctxt "#30040"
+msgid "Smoothing"
+msgstr "Afvlakking"
+
+msgctxt "#30041"
+msgid "How often each point is evened out with its neighbours: more is rounder."
+msgstr "Hoe vaak elk punt met zijn buren wordt gelijkgetrokken: meer is ronder."
+
+msgctxt "#30042"
+msgid "Calm"
+msgstr "Rust"
+
+msgctxt "#30043"
+msgid "How much of the line before stays in the next one: more is slower and steadier."
+msgstr "Hoeveel van de vorige lijn in de volgende blijft: meer is trager en stabieler."
+
+msgctxt "#30044"
+msgid "Height"
+msgstr "Hoogte"
+
+msgctxt "#30045"
+msgid "How far the line swings; loud peaks stay inside the box either way."
+msgstr "Hoe ver de lijn uitslaat; harde pieken blijven hoe dan ook binnen het vak."
+
+msgctxt "#30046"
+msgid "Smooth curve"
+msgstr "Vloeiende curve"
+
+msgctxt "#30047"
+msgid "A rounded curve through the points instead of straight lines."
+msgstr "Een ronde curve door de punten in plaats van rechte lijnen."
+
+msgctxt "#30050"
+msgid "Style"
+msgstr "Stijl"
+
+msgctxt "#30051"
+msgid "Smooth: a calm, rounded line (each point the average of the audio it covers, evened out). Accurate: the raw samples, as Waveform draws them."
+msgstr "Vloeiend: een rustige, ronde lijn (elk punt het gemiddelde van de audio die het dekt, gelijkgetrokken). Nauwkeurig: de ruwe samples, zoals Waveform ze tekent."
+
+msgctxt "#30052"
+msgid "Smooth"
+msgstr "Vloeiend"
+
+msgctxt "#30053"
+msgid "Accurate"
+msgstr "Nauwkeurig"
+
+msgctxt "#30060"
+msgid "Smoothness"
+msgstr "Vloeiendheid"
+
+msgctxt "#30061"
+msgid "0: the raw samples, as Waveform draws them (accurate, busy). Higher: each point averages more of the audio it covers and is evened out with its neighbours and the moment before, so the line gets calmer and rounder. 10 is the calmest."
+msgstr "0: de ruwe samples, zoals Waveform ze tekent (nauwkeurig, druk). Hoger: elk punt middelt meer van de audio die het dekt en wordt gelijkgetrokken met zijn buren en het moment ervoor, zodat de lijn rustiger en ronder wordt. 10 is het rustigst."
+
+msgctxt "#30062"
+msgid "Accurate"
+msgstr "Nauwkeurig"
+
+msgctxt "#30063"
+msgid "{0:d} %"
+msgstr "{0:d} %"
+
+msgctxt "#30035"
+msgid "Right"
+msgstr "Rechts"
+
+msgctxt "#30036"
+msgid "Both overlaid"
+msgstr "Beide over elkaar"
