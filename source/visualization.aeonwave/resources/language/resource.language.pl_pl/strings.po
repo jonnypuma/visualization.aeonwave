@@ -1,0 +1,197 @@
+# Kodi add-on strings - visualization.aeonwave (pl_pl)
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.aeonwave\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "Punkty na linię"
+
+msgctxt "#30001"
+msgid "How many points the line goes through: fewer is calmer."
+msgstr "Przez ile punktów przechodzi linia: mniej to spokojniej."
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "Kolor linii"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "Czerwony"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "Natężenie czerwieni w linii."
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "Zielony"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "Natężenie zieleni w linii."
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "Niebieski"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "Natężenie błękitu w linii."
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "Natężenie kanału alfa w linii."
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "Kolor tła"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "Czerwony"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "Natężenie czerwieni w tle."
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "Zielony"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "Natężenie zieleni w tle."
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "Niebieski"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "Natężenie błękitu w tle."
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "Natężenie kanału alfa w tle."
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "Nie obliczaj"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "Grubość linii"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "Określa grubość linii w pikselach."
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr "{0:d} px"
+
+msgctxt "#30030"
+msgid "Channels"
+msgstr "Kanały"
+
+msgctxt "#30031"
+msgid "Left or Right: that channel as one line through the middle. Both mixed: left and right averaged into one line. Both overlaid: both lines in the same band, the right one dimmer. Both as two lines: left above, right below (as Waveform)."
+msgstr "Lewy lub Prawy: ten kanał jako jedna linia przez środek. Oba zmiksowane: lewy i prawy uśrednione w jedną linię. Oba nałożone: obie linie w tym samym pasie, prawa słabsza. Oba jako dwie linie: lewy u góry, prawy na dole (jak Waveform)."
+
+msgctxt "#30032"
+msgid "Left"
+msgstr "Lewy"
+
+msgctxt "#30033"
+msgid "Both mixed"
+msgstr "Oba zmiksowane"
+
+msgctxt "#30034"
+msgid "Both as two lines"
+msgstr "Oba jako dwie linie"
+
+msgctxt "#30040"
+msgid "Smoothing"
+msgstr "Wygładzanie"
+
+msgctxt "#30041"
+msgid "How often each point is evened out with its neighbours: more is rounder."
+msgstr "Ile razy każdy punkt jest wyrównywany z sąsiadami: więcej to bardziej okrągło."
+
+msgctxt "#30042"
+msgid "Calm"
+msgstr "Spokój"
+
+msgctxt "#30043"
+msgid "How much of the line before stays in the next one: more is slower and steadier."
+msgstr "Ile z poprzedniej linii zostaje w następnej: więcej to wolniej i stabilniej."
+
+msgctxt "#30044"
+msgid "Height"
+msgstr "Wysokość"
+
+msgctxt "#30045"
+msgid "How far the line swings; loud peaks stay inside the box either way."
+msgstr "Jak daleko linia się wychyla; głośne szczyty i tak zostają w ramce."
+
+msgctxt "#30046"
+msgid "Smooth curve"
+msgstr "Gładka krzywa"
+
+msgctxt "#30047"
+msgid "A rounded curve through the points instead of straight lines."
+msgstr "Zaokrąglona krzywa przez punkty zamiast prostych linii."
+
+msgctxt "#30050"
+msgid "Style"
+msgstr "Styl"
+
+msgctxt "#30051"
+msgid "Smooth: a calm, rounded line (each point the average of the audio it covers, evened out). Accurate: the raw samples, as Waveform draws them."
+msgstr "Gładki: spokojna, zaokrąglona linia (każdy punkt to średnia dźwięku, który obejmuje, wyrównana). Dokładny: surowe próbki, tak jak rysuje je Waveform."
+
+msgctxt "#30052"
+msgid "Smooth"
+msgstr "Gładki"
+
+msgctxt "#30053"
+msgid "Accurate"
+msgstr "Dokładny"
+
+msgctxt "#30060"
+msgid "Smoothness"
+msgstr "Gładkość"
+
+msgctxt "#30061"
+msgid "0: the raw samples, as Waveform draws them (accurate, busy). Higher: each point averages more of the audio it covers and is evened out with its neighbours and the moment before, so the line gets calmer and rounder. 10 is the calmest."
+msgstr "0: surowe próbki, tak jak rysuje je Waveform (dokładnie, nerwowo). Wyżej: każdy punkt uśrednia więcej dźwięku, który obejmuje, i jest wyrównywany z sąsiadami i chwilą wcześniej, więc linia staje się spokojniejsza i bardziej okrągła. 10 to najspokojniej."
+
+msgctxt "#30062"
+msgid "Accurate"
+msgstr "Dokładny"
+
+msgctxt "#30063"
+msgid "{0:d} %"
+msgstr "{0:d} %"
+
+msgctxt "#30035"
+msgid "Right"
+msgstr "Prawy"
+
+msgctxt "#30036"
+msgid "Both overlaid"
+msgstr "Oba nałożone"

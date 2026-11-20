@@ -1,0 +1,197 @@
+# Kodi add-on strings - visualization.aeonwave (ko_kr)
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.aeonwave\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "선당 점 수"
+
+msgctxt "#30001"
+msgid "How many points the line goes through: fewer is calmer."
+msgstr "선이 지나는 점의 수: 적을수록 차분합니다."
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "선 색"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "빨강"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "선의 빨간색 세기."
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "초록"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "선의 초록색 세기."
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "파랑"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "선의 파란색 세기."
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "알파"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "선의 알파 세기."
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "배경색"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "빨강"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "배경의 빨간색 세기."
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "초록"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "배경의 초록색 세기."
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "파랑"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "배경의 파란색 세기."
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "알파"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "배경의 알파 세기."
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "계산 안 함"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "선 두께"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "선의 두께를 픽셀 수로 정합니다."
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr "{0:d} px"
+
+msgctxt "#30030"
+msgid "Channels"
+msgstr "채널"
+
+msgctxt "#30031"
+msgid "Left or Right: that channel as one line through the middle. Both mixed: left and right averaged into one line. Both overlaid: both lines in the same band, the right one dimmer. Both as two lines: left above, right below (as Waveform)."
+msgstr "왼쪽 또는 오른쪽: 그 채널을 가운데 선 하나로. 둘 다 섞기: 왼쪽과 오른쪽을 평균해 선 하나로. 둘 다 겹치기: 두 선을 같은 띠에, 오른쪽은 흐리게. 둘 다 두 선으로: 왼쪽은 위, 오른쪽은 아래(Waveform처럼)."
+
+msgctxt "#30032"
+msgid "Left"
+msgstr "왼쪽"
+
+msgctxt "#30033"
+msgid "Both mixed"
+msgstr "둘 다 섞기"
+
+msgctxt "#30034"
+msgid "Both as two lines"
+msgstr "둘 다 두 선으로"
+
+msgctxt "#30040"
+msgid "Smoothing"
+msgstr "다듬기"
+
+msgctxt "#30041"
+msgid "How often each point is evened out with its neighbours: more is rounder."
+msgstr "각 점을 이웃과 고르게 하는 횟수: 많을수록 둥급니다."
+
+msgctxt "#30042"
+msgid "Calm"
+msgstr "차분함"
+
+msgctxt "#30043"
+msgid "How much of the line before stays in the next one: more is slower and steadier."
+msgstr "이전 선이 다음 선에 얼마나 남는지: 많을수록 느리고 안정적입니다."
+
+msgctxt "#30044"
+msgid "Height"
+msgstr "높이"
+
+msgctxt "#30045"
+msgid "How far the line swings; loud peaks stay inside the box either way."
+msgstr "선이 흔들리는 폭. 큰 피크도 어쨌든 상자 안에 머뭅니다."
+
+msgctxt "#30046"
+msgid "Smooth curve"
+msgstr "부드러운 곡선"
+
+msgctxt "#30047"
+msgid "A rounded curve through the points instead of straight lines."
+msgstr "직선 대신 점을 지나는 둥근 곡선."
+
+msgctxt "#30050"
+msgid "Style"
+msgstr "스타일"
+
+msgctxt "#30051"
+msgid "Smooth: a calm, rounded line (each point the average of the audio it covers, evened out). Accurate: the raw samples, as Waveform draws them."
+msgstr "부드럽게: 차분하고 둥근 선(각 점은 담당하는 오디오의 평균을 고르게 한 값). 정확하게: Waveform처럼 원본 샘플."
+
+msgctxt "#30052"
+msgid "Smooth"
+msgstr "부드럽게"
+
+msgctxt "#30053"
+msgid "Accurate"
+msgstr "정확하게"
+
+msgctxt "#30060"
+msgid "Smoothness"
+msgstr "부드러움"
+
+msgctxt "#30061"
+msgid "0: the raw samples, as Waveform draws them (accurate, busy). Higher: each point averages more of the audio it covers and is evened out with its neighbours and the moment before, so the line gets calmer and rounder. 10 is the calmest."
+msgstr "0: Waveform처럼 원본 샘플(정확하지만 어수선함). 높을수록: 각 점이 담당하는 오디오를 더 많이 평균하고 이웃 및 직전 순간과 고르게 해 선이 더 차분하고 둥글어집니다. 10이 가장 차분합니다."
+
+msgctxt "#30062"
+msgid "Accurate"
+msgstr "정확하게"
+
+msgctxt "#30063"
+msgid "{0:d} %"
+msgstr "{0:d} %"
+
+msgctxt "#30035"
+msgid "Right"
+msgstr "오른쪽"
+
+msgctxt "#30036"
+msgid "Both overlaid"
+msgstr "둘 다 겹치기"

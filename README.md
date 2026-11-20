@@ -39,6 +39,11 @@ folder. Enable it, choose it in Settings > Player > Music > Visualisation, and o
 The Aeon Fuse skin draws it in its own box on the Now Playing card; other skins show it full screen like any
 visualisation.
 
+## Source code
+
+The source, the add-on template and the build script for all four platforms are in [source/](source/README.md).
+The finished zips for every platform are in the Skippy Repo.
+
 ## Credits and licence
 
 Based on Kodi's Waveform visualisation (visualization.waveform 22.1.1, by MrC and Team Kodi). GPL-2.0-or-later, see

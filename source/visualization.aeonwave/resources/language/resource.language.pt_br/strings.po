@@ -1,0 +1,197 @@
+# Kodi add-on strings - visualization.aeonwave (pt_br)
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.aeonwave\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "Pontos por linha"
+
+msgctxt "#30001"
+msgid "How many points the line goes through: fewer is calmer."
+msgstr "Por quantos pontos a linha passa: menos é mais calmo."
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "Cor da linha"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "Vermelho"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "Intensidade do vermelho na linha."
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "Verde"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "Intensidade do verde na linha."
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "Azul"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "Intensidade do azul na linha."
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "Intensidade do alfa na linha."
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "Cor de fundo"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "Vermelho"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "Intensidade do vermelho no fundo."
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "Verde"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "Intensidade do verde no fundo."
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "Azul"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "Intensidade do azul no fundo."
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "Intensidade do alfa no fundo."
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "Não calcular"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "Espessura da linha"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "Define a espessura de uma linha em pixels."
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr "{0:d} px"
+
+msgctxt "#30030"
+msgid "Channels"
+msgstr "Canais"
+
+msgctxt "#30031"
+msgid "Left or Right: that channel as one line through the middle. Both mixed: left and right averaged into one line. Both overlaid: both lines in the same band, the right one dimmer. Both as two lines: left above, right below (as Waveform)."
+msgstr "Esquerdo ou Direito: esse canal como uma linha pelo meio. Ambos mixados: esquerdo e direito em média numa linha. Ambos sobrepostos: as duas linhas na mesma faixa, a direita mais fraca. Ambos em duas linhas: esquerdo em cima, direito embaixo (como o Waveform)."
+
+msgctxt "#30032"
+msgid "Left"
+msgstr "Esquerdo"
+
+msgctxt "#30033"
+msgid "Both mixed"
+msgstr "Ambos mixados"
+
+msgctxt "#30034"
+msgid "Both as two lines"
+msgstr "Ambos em duas linhas"
+
+msgctxt "#30040"
+msgid "Smoothing"
+msgstr "Suavização"
+
+msgctxt "#30041"
+msgid "How often each point is evened out with its neighbours: more is rounder."
+msgstr "Quantas vezes cada ponto é igualado com os vizinhos: mais é mais redondo."
+
+msgctxt "#30042"
+msgid "Calm"
+msgstr "Calma"
+
+msgctxt "#30043"
+msgid "How much of the line before stays in the next one: more is slower and steadier."
+msgstr "Quanto da linha anterior fica na seguinte: mais é mais lento e estável."
+
+msgctxt "#30044"
+msgid "Height"
+msgstr "Altura"
+
+msgctxt "#30045"
+msgid "How far the line swings; loud peaks stay inside the box either way."
+msgstr "Quanto a linha oscila; picos fortes ficam dentro da caixa de qualquer forma."
+
+msgctxt "#30046"
+msgid "Smooth curve"
+msgstr "Curva suave"
+
+msgctxt "#30047"
+msgid "A rounded curve through the points instead of straight lines."
+msgstr "Uma curva arredondada pelos pontos em vez de linhas retas."
+
+msgctxt "#30050"
+msgid "Style"
+msgstr "Estilo"
+
+msgctxt "#30051"
+msgid "Smooth: a calm, rounded line (each point the average of the audio it covers, evened out). Accurate: the raw samples, as Waveform draws them."
+msgstr "Suave: uma linha calma e arredondada (cada ponto é a média do áudio que cobre, igualada). Preciso: as amostras brutas, como o Waveform desenha."
+
+msgctxt "#30052"
+msgid "Smooth"
+msgstr "Suave"
+
+msgctxt "#30053"
+msgid "Accurate"
+msgstr "Preciso"
+
+msgctxt "#30060"
+msgid "Smoothness"
+msgstr "Suavidade"
+
+msgctxt "#30061"
+msgid "0: the raw samples, as Waveform draws them (accurate, busy). Higher: each point averages more of the audio it covers and is evened out with its neighbours and the moment before, so the line gets calmer and rounder. 10 is the calmest."
+msgstr "0: as amostras brutas, como o Waveform desenha (preciso, agitado). Mais alto: cada ponto faz a média de mais áudio e é igualado com os vizinhos e o instante anterior, então a linha fica mais calma e redonda. 10 é o mais calmo."
+
+msgctxt "#30062"
+msgid "Accurate"
+msgstr "Preciso"
+
+msgctxt "#30063"
+msgid "{0:d} %"
+msgstr "{0:d} %"
+
+msgctxt "#30035"
+msgid "Right"
+msgstr "Direito"
+
+msgctxt "#30036"
+msgid "Both overlaid"
+msgstr "Ambos sobrepostos"

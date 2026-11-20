@@ -1,0 +1,197 @@
+# Kodi add-on strings - visualization.aeonwave (ru_ru)
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.aeonwave\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "Точек на линию"
+
+msgctxt "#30001"
+msgid "How many points the line goes through: fewer is calmer."
+msgstr "Через сколько точек проходит линия: меньше — спокойнее."
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "Цвет линии"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "Красный"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "Сила красного цвета в линии."
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "Зелёный"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "Сила зелёного цвета в линии."
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "Синий"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "Сила синего цвета в линии."
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "Альфа"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "Сила альфа-канала в линии."
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "Цвет фона"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "Красный"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "Сила красного цвета в фоне."
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "Зелёный"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "Сила зелёного цвета в фоне."
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "Синий"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "Сила синего цвета в фоне."
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "Альфа"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "Сила альфа-канала в фоне."
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "Не вычислять"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "Толщина линии"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "Задаёт толщину линии в пикселях."
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr "{0:d} пикс."
+
+msgctxt "#30030"
+msgid "Channels"
+msgstr "Каналы"
+
+msgctxt "#30031"
+msgid "Left or Right: that channel as one line through the middle. Both mixed: left and right averaged into one line. Both overlaid: both lines in the same band, the right one dimmer. Both as two lines: left above, right below (as Waveform)."
+msgstr "Левый или Правый: этот канал одной линией посередине. Оба смешаны: левый и правый усреднены в одну линию. Оба наложены: обе линии в одной полосе, правая бледнее. Оба двумя линиями: левый сверху, правый снизу (как Waveform)."
+
+msgctxt "#30032"
+msgid "Left"
+msgstr "Левый"
+
+msgctxt "#30033"
+msgid "Both mixed"
+msgstr "Оба смешаны"
+
+msgctxt "#30034"
+msgid "Both as two lines"
+msgstr "Оба двумя линиями"
+
+msgctxt "#30040"
+msgid "Smoothing"
+msgstr "Сглаживание"
+
+msgctxt "#30041"
+msgid "How often each point is evened out with its neighbours: more is rounder."
+msgstr "Сколько раз каждая точка выравнивается с соседями: больше — круглее."
+
+msgctxt "#30042"
+msgid "Calm"
+msgstr "Спокойствие"
+
+msgctxt "#30043"
+msgid "How much of the line before stays in the next one: more is slower and steadier."
+msgstr "Сколько от предыдущей линии остаётся в следующей: больше — медленнее и ровнее."
+
+msgctxt "#30044"
+msgid "Height"
+msgstr "Высота"
+
+msgctxt "#30045"
+msgid "How far the line swings; loud peaks stay inside the box either way."
+msgstr "Насколько сильно качается линия; громкие пики в любом случае остаются в рамке."
+
+msgctxt "#30046"
+msgid "Smooth curve"
+msgstr "Плавная кривая"
+
+msgctxt "#30047"
+msgid "A rounded curve through the points instead of straight lines."
+msgstr "Скруглённая кривая через точки вместо прямых линий."
+
+msgctxt "#30050"
+msgid "Style"
+msgstr "Стиль"
+
+msgctxt "#30051"
+msgid "Smooth: a calm, rounded line (each point the average of the audio it covers, evened out). Accurate: the raw samples, as Waveform draws them."
+msgstr "Плавный: спокойная, скруглённая линия (каждая точка — среднее звука, который она охватывает, выровненное). Точный: сырые сэмплы, как их рисует Waveform."
+
+msgctxt "#30052"
+msgid "Smooth"
+msgstr "Плавный"
+
+msgctxt "#30053"
+msgid "Accurate"
+msgstr "Точный"
+
+msgctxt "#30060"
+msgid "Smoothness"
+msgstr "Плавность"
+
+msgctxt "#30061"
+msgid "0: the raw samples, as Waveform draws them (accurate, busy). Higher: each point averages more of the audio it covers and is evened out with its neighbours and the moment before, so the line gets calmer and rounder. 10 is the calmest."
+msgstr "0: сырые сэмплы, как их рисует Waveform (точно, беспокойно). Выше: каждая точка усредняет больше охватываемого звука и выравнивается с соседями и предыдущим моментом, поэтому линия становится спокойнее и круглее. 10 — самая спокойная."
+
+msgctxt "#30062"
+msgid "Accurate"
+msgstr "Точный"
+
+msgctxt "#30063"
+msgid "{0:d} %"
+msgstr "{0:d} %"
+
+msgctxt "#30035"
+msgid "Right"
+msgstr "Правый"
+
+msgctxt "#30036"
+msgid "Both overlaid"
+msgstr "Оба наложены"

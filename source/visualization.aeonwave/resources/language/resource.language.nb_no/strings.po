@@ -1,0 +1,197 @@
+# Kodi add-on strings - visualization.aeonwave (nb_no)
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.aeonwave\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "Punkter per linje"
+
+msgctxt "#30001"
+msgid "How many points the line goes through: fewer is calmer."
+msgstr "Hvor mange punkter linjen går gjennom: færre er roligere."
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "Linjefarge"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "Rød"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "Styrken på rødt i linjen."
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "Grønn"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "Styrken på grønt i linjen."
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "Blå"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "Styrken på blått i linjen."
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "Styrken på alfa i linjen."
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "Bakgrunnsfarge"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "Rød"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "Styrken på rødt i bakgrunnen."
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "Grønn"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "Styrken på grønt i bakgrunnen."
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "Blå"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "Styrken på blått i bakgrunnen."
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "Styrken på alfa i bakgrunnen."
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "Ikke beregn"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "Linjetykkelse"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "Angir tykkelsen på en linje i antall piksler."
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr "{0:d} px"
+
+msgctxt "#30030"
+msgid "Channels"
+msgstr "Kanaler"
+
+msgctxt "#30031"
+msgid "Left or Right: that channel as one line through the middle. Both mixed: left and right averaged into one line. Both overlaid: both lines in the same band, the right one dimmer. Both as two lines: left above, right below (as Waveform)."
+msgstr "Venstre eller Høyre: den kanalen som én linje gjennom midten. Begge blandet: venstre og høyre i snitt til én linje. Begge overlagt: begge linjene i samme bånd, den høyre svakere. Begge som to linjer: venstre over, høyre under (som Waveform)."
+
+msgctxt "#30032"
+msgid "Left"
+msgstr "Venstre"
+
+msgctxt "#30033"
+msgid "Both mixed"
+msgstr "Begge blandet"
+
+msgctxt "#30034"
+msgid "Both as two lines"
+msgstr "Begge som to linjer"
+
+msgctxt "#30040"
+msgid "Smoothing"
+msgstr "Utjevning"
+
+msgctxt "#30041"
+msgid "How often each point is evened out with its neighbours: more is rounder."
+msgstr "Hvor ofte hvert punkt jevnes ut med naboene: mer er rundere."
+
+msgctxt "#30042"
+msgid "Calm"
+msgstr "Ro"
+
+msgctxt "#30043"
+msgid "How much of the line before stays in the next one: more is slower and steadier."
+msgstr "Hvor mye av forrige linje som blir i den neste: mer er tregere og jevnere."
+
+msgctxt "#30044"
+msgid "Height"
+msgstr "Høyde"
+
+msgctxt "#30045"
+msgid "How far the line swings; loud peaks stay inside the box either way."
+msgstr "Hvor langt linjen svinger; kraftige topper holder seg uansett innenfor boksen."
+
+msgctxt "#30046"
+msgid "Smooth curve"
+msgstr "Myk kurve"
+
+msgctxt "#30047"
+msgid "A rounded curve through the points instead of straight lines."
+msgstr "En avrundet kurve gjennom punktene i stedet for rette linjer."
+
+msgctxt "#30050"
+msgid "Style"
+msgstr "Stil"
+
+msgctxt "#30051"
+msgid "Smooth: a calm, rounded line (each point the average of the audio it covers, evened out). Accurate: the raw samples, as Waveform draws them."
+msgstr "Myk: en rolig, avrundet linje (hvert punkt er snittet av lyden det dekker, utjevnet). Nøyaktig: de rå samplene, slik Waveform tegner dem."
+
+msgctxt "#30052"
+msgid "Smooth"
+msgstr "Myk"
+
+msgctxt "#30053"
+msgid "Accurate"
+msgstr "Nøyaktig"
+
+msgctxt "#30060"
+msgid "Smoothness"
+msgstr "Mykhet"
+
+msgctxt "#30061"
+msgid "0: the raw samples, as Waveform draws them (accurate, busy). Higher: each point averages more of the audio it covers and is evened out with its neighbours and the moment before, so the line gets calmer and rounder. 10 is the calmest."
+msgstr "0: de rå samplene, slik Waveform tegner dem (nøyaktig, urolig). Høyere: hvert punkt tar snitt av mer av lyden det dekker og jevnes ut med naboene og øyeblikket før, så linjen blir roligere og rundere. 10 er roligst."
+
+msgctxt "#30062"
+msgid "Accurate"
+msgstr "Nøyaktig"
+
+msgctxt "#30063"
+msgid "{0:d} %"
+msgstr "{0:d} %"
+
+msgctxt "#30035"
+msgid "Right"
+msgstr "Høyre"
+
+msgctxt "#30036"
+msgid "Both overlaid"
+msgstr "Begge overlagt"
