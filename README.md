@@ -1,10 +1,24 @@
-# Aeon Fuse Waveform Visualizer
+<div align="center">
+  <img src="https://jonnypuma.github.io/assets/visualization.aeonwave/icon.webp" width="140" alt="Aeon Fuse Waveform Visualizer">
+  <h1>Aeon Fuse Waveform Visualizer</h1>
+  <p><b>One thin waveform line, made for the Aeon Fuse Now playing card.</b></p>
+  <p><a href="https://jonnypuma.github.io/#/visualization.aeonwave"><b>Project page</b></a> · <a href="https://jonnypuma.github.io/"><b>All add-ons and apps by jonnypuma</b></a> · <a href="https://jonnypuma.github.io/#install"><b>Install from the Skippy Repo</b></a> · <a href="source/README.md"><b>Source and build script</b></a></p>
+</div>
 
-`visualization.aeonwave` 1.5.2 · Kodi 22 (Piers)
+<p align="center"><sub>Version 1.5.2 · Kodi 22 (Piers) · add-on ids <code>visualization.aeonwave.&lt;platform&gt;</code></sub></p>
 
 A calm, thin audio waveform for the Aeon Fuse Now Playing screen. It is Kodi's own Waveform visualisation (by MrC and
 Team Kodi) reworked to sit cleanly in the skin's waveform box instead of filling it with spikes.
 
+## Screenshot
+
+The thin waveform on the Now playing card while a song plays. Click for the full size.
+
+<table>
+  <tr>
+    <td width="100%" align="center" valign="top"><a href="https://jonnypuma.github.io/assets/skin.aeon.fuse/aeon/music_lyrics.webp"><img src="https://jonnypuma.github.io/assets/skin.aeon.fuse/aeon/t/music_lyrics.webp" alt="Aeon Fuse Now playing card with the waveform (The (International) Noise Conspiracy, Smash It Up)"></a><br><sub>Aeon Fuse Now playing card with the waveform (The (International) Noise Conspiracy, Smash It Up)</sub></td>
+  </tr>
+</table>
 ## What it does
 
 - **One clean line.** A single line through the middle of its box, the same thin width on flat and steep passages
@@ -22,19 +36,22 @@ The settings are translated into the Aeon Fuse skin's 22 languages.
 
 ## Platforms
 
-| Package | For |
+One add-on per platform, because Kodi cannot tell the three Linux builds apart. Install the one for your device.
+
+| Add-on | For |
 |---|---|
-| linux-arm64 | 64-bit ARM, OpenGL ES: CoreELEC / LibreELEC 64-bit, Raspberry Pi 4/5 |
-| linux-armv7 | 32-bit ARM, OpenGL ES: 32-bit LibreELEC / CoreELEC images |
-| linux-x86_64 | x86-64 Linux, OpenGL: desktop Linux, LibreELEC Generic |
-| windows-x64 | Kodi for Windows, DirectX 11 (it also fixes the stock Waveform drawing at twice the offset and width there) |
+| `visualization.aeonwave.linux-arm64` | 64-bit ARM, OpenGL ES: CoreELEC / LibreELEC 64-bit, Raspberry Pi 4/5 |
+| `visualization.aeonwave.linux-armv7` | 32-bit ARM, OpenGL ES: 32-bit LibreELEC / CoreELEC images |
+| `visualization.aeonwave.linux-x86_64` | x86-64 Linux, OpenGL: desktop Linux, LibreELEC Generic |
+| `visualization.aeonwave.windows-x64` | Kodi for Windows, DirectX 11 (it also fixes the stock Waveform drawing at twice the offset and width there) |
 
 Not for Android, macOS or iOS.
 
 ## Install
 
-Add-ons > Install from zip file (allow unknown sources) with the zip for your platform, or unpack it into the add-ons
-folder. Enable it, choose it in Settings > Player > Music > Visualisation, and open Now Playing again.
+From the Skippy Repo: Add-ons > Install from repository > Skippy Repo > Visualisations, and install the build for your device. Or use
+Add-ons > Install from zip file (allow unknown sources) with the zip for your platform. Enable it, choose it in
+Settings > Player > Music > Visualisation, and open Now Playing again.
 
 The Aeon Fuse skin draws it in its own box on the Now Playing card; other skins show it full screen like any
 visualisation.
